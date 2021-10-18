@@ -1,0 +1,10 @@
+div {
+    text-align-last: center;
+}
+button {
+    margin: 10px;
+    width: 100px;
+}
+#start-game-btn {
+    width: 200px;
+}
